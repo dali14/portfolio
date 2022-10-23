@@ -26,7 +26,7 @@ const Index = () => {
           </a>
           {/* logo */}
           <div className="logo hover-masks-logo">
-            <a href="hi">
+            <a href="https://drive.google.com/file/d/13pFjHolpgvUaYbkTwx13cttbojp9l_EV/view">
               <span className="mask-lnk">
                 Med Ali  <strong>Jlassi</strong>
               </span>
