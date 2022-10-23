@@ -21,7 +21,7 @@ export const DesignSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">Illustrations</div>
+              <div className="name">Mobile App Design</div>
               <div className="progress ">
                 <div className="percentage" style={{ width: "70%" }}>
                   <span className="percent">70%</span>
@@ -117,7 +117,7 @@ export const CodingSkills = () => {
         <div className="skills circles content-box">
           <ul>
             <li>
-              <div className="name">WordPress</div>
+              <div className="name">React / NextJS</div>
               <div className="progress p90">
                 {" "}
                 {/* p90 = 90% circle fill color */}
@@ -132,7 +132,7 @@ export const CodingSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">PHP / MYSQL</div>
+              <div className="name">PHP / Laravel</div>
               <div className="progress p75">
                 {" "}
                 {/* p75 = 75% circle fill color */}
@@ -147,7 +147,7 @@ export const CodingSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">Angular / JavaScript</div>
+              <div className="name">Spring boot</div>
               <div className="progress p85">
                 {" "}
                 {/* p85 = 85% circle fill color */}
@@ -170,6 +170,37 @@ export const CodingSkills = () => {
                   <span className="percent">95%</span>
                 </div>
                 <span>95%</span>
+                <div className="slice">
+                  <div className="bar"></div>
+                  <div className="fill"></div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div className="name">Angular</div>
+              <div className="progress p80">
+                {" "}
+                {/* p95 = 95% circle fill color */}
+                <div className="percentage">
+                  <span className="percent">80%</span>
+                </div>
+                <span>80%</span>
+                <div className="slice">
+                  <div className="bar"></div>
+                  <div className="fill"></div>
+                </div>
+              </div>
+            </li>
+            
+            <li>
+              <div className="name">ReactNative</div>
+              <div className="progress p70">
+                {" "}
+                {/* p95 = 95% circle fill color */}
+                <div className="percentage">
+                  <span className="percent">70%</span>
+                </div>
+                <span>70%</span>
                 <div className="slice">
                   <div className="bar"></div>
                   <div className="fill"></div>

@@ -238,29 +238,26 @@ const Index = () => {
                 {/* resume items */}
                 <div className="resume-items">
                   <div className="resume-item content-box active">
-                    <div className="date">2013 - Present</div>
-                    <div className="name">Art Director - Facebook Inc.</div>
+                    <div className="date">2022 - Stagiaire SBI</div>
+                    <div className="name">Developer </div>
                     <div className="text">
-                      Collaborate with creative and development teams on the
-                      execution of ideas.
+                    Development project of a Mini-Foot pitch reservation platform.
                     </div>
                   </div>
                   <div className="resume-item content-box">
-                    <div className="date">2011 - 2012</div>
+                    <div className="date">2021 - 2021</div>
                     <div className="name">
-                      Front-End Developer - Google Inc.
+                    Stagiaire - TopNet.
                     </div>
                     <div className="text">
-                      Monitored technical aspects of the front-end delivery for
-                      projects.
+                    Design and implementation of a web platform used to manage trainees.
                     </div>
                   </div>
                   <div className="resume-item content-box">
-                    <div className="date">2009 - 2010</div>
-                    <div className="name">Senior Developer - ABC Inc.</div>
+                    <div className="date">2019 - 2019</div>
+                    <div className="name">Stagiaire - TriDevs.</div>
                     <div className="text">
-                      Optimize your website and apps performance using latest
-                      technology.
+                    Creation of a mobile and web application using the PHP Framework (Django) and Html 5 (PHASER)..
                     </div>
                   </div>
                 </div>
@@ -273,24 +270,23 @@ const Index = () => {
                 {/* resume items */}
                 <div className="resume-items">
                   <div className="resume-item content-box">
-                    <div className="date">2006 - 2008</div>
-                    <div className="name">Art University - New York</div>
+                    <div className="date">2017 - 2022</div>
+                    <div className="name">LICENSE Information Technology</div>
                     <div className="text">
-                      Bachelors Degree in Computer Science ABC Technical
-                      Institute, Jefferson, Missouri.
+                      Bachelors Degree in Computer Science Technical
+                      Higher Institute of Technological Studies of Bizerte
                     </div>
                   </div>
                   <div className="resume-item content-box">
-                    <div className="date">2005 - 2006</div>
-                    <div className="name">Programming Course - Paris</div>
+                    <div className="date">2015 - 2016</div>
+                    <div className="name">BACCALAUREATE in Information Science</div>
                     <div className="text">
-                      Coursework - Git, WordPress, Javascript, iOS, Android,
-                      CSS, and JavaScript.
+                    Ibn Abi Dhief High School, Manouba
                     </div>
                   </div>
                   <div className="resume-item content-box">
-                    <div className="date">2004 - 2005</div>
-                    <div className="name">Web Design Course - London</div>
+                    <div className="date">2014 - 2015</div>
+                    <div className="name">Web Design Course </div>
                     <div className="text">
                       Converted Photoshop layouts to web pages using HTML, CSS,
                       and JavaScript.
@@ -432,9 +428,7 @@ const Index = () => {
                     <span className="fas fa-futbol" />
                   </div>
                   <div className="name">Futbol</div>
-                  <div className="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  </div>
+                  
                 </div>
               </div>
               <div className="service-col">
@@ -443,9 +437,7 @@ const Index = () => {
                     <span className="fas fa-campground" />
                   </div>
                   <div className="name">Camping</div>
-                  <div className="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  </div>
+                  
                 </div>
               </div>
               <div className="service-col">
@@ -454,9 +446,7 @@ const Index = () => {
                     <span className="fas fa-code" />
                   </div>
                   <div className="name">Coding</div>
-                  <div className="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  </div>
+                 
                 </div>
               </div>
               <div className="service-col">
@@ -465,9 +455,7 @@ const Index = () => {
                     <span className="fas fa-headphones" />
                   </div>
                   <div className="name">Music</div>
-                  <div className="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  </div>
+                 
                 </div>
               </div>
             </div>
@@ -475,156 +463,13 @@ const Index = () => {
           </div>
         </div>
         {/* Section Team */}
-        <div className="section team" id="section-team">
-          <div className="content">
-            {/* title */}
-            <div className="title">
-              <div className="title_inner">Our Team</div>
-            </div>
-            {/* team items */}
-            <div className="team-items">
-              <div className="team-col">
-                <div className="team-item content-box">
-                  <div className="image">
-                    <img src="images/team1.jpg" alt="" />
-                  </div>
-                  <div className="desc">
-                    <div className="name">Alejandro Abeyta</div>
-                    <div className="category">Web Developer</div>
-                    <div className="soc">
-                      <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://www.pinterest.com/"
-                      >
-                        <span className="icon fab fa-pinterest" />
-                      </a>
-                      <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://www.instagram.com/"
-                      >
-                        <span className="icon fab fa-instagram" />
-                      </a>
-                      <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://dribbble.com/"
-                      >
-                        <span className="icon fab fa-dribbble" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="team-col">
-                <div className="team-item content-box">
-                  <div className="image">
-                    <img src="images/team2.jpg" alt="" />
-                  </div>
-                  <div className="desc">
-                    <div className="name">Peter Green</div>
-                    <div className="category">Back-end Developer</div>
-                    <div className="soc">
-                      <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://www.pinterest.com/"
-                      >
-                        <span className="icon fab fa-pinterest" />
-                      </a>
-                      <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://www.instagram.com/"
-                      >
-                        <span className="icon fab fa-instagram" />
-                      </a>
-                      <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://dribbble.com/"
-                      >
-                        <span className="icon fab fa-dribbble" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+       
         {/* Section Testimonials */}
-        <Testimonials />
+        
         {/* Section Clients */}
-        <div className="section clients" id="section-clients">
-          <div className="content">
-            {/* title */}
-            <div className="title">
-              <div className="title_inner">Clients</div>
-            </div>
-            {/* clients items */}
-            <div className="content-box">
-              <div className="clients-items">
-                <div className="clients-col">
-                  <div className="clients-item">
-                    <a target="_blank" rel="noreferrer" href="#">
-                      <img src="images/client1.png" alt="" />
-                    </a>
-                  </div>
-                </div>
-                <div className="clients-col">
-                  <div className="clients-item">
-                    <a target="_blank" rel="noreferrer" href="#">
-                      <img src="images/client3.png" alt="" />
-                    </a>
-                  </div>
-                </div>
-                <div className="clients-col">
-                  <div className="clients-item">
-                    <a target="_blank" rel="noreferrer" href="#">
-                      <img src="images/client2.png" alt="" />
-                    </a>
-                  </div>
-                </div>
-                <div className="clients-col">
-                  <div className="clients-item">
-                    <a target="_blank" rel="noreferrer" href="#">
-                      <img src="images/client4.png" alt="" />
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="clear" />
-          </div>
-        </div>
+        
         {/* Section Custom Text */}
-        <div className="section custom-text" id="section-custom-text">
-          <div className="content">
-            {/* title */}
-            <div className="title">
-              <div className="title_inner">Custom Text</div>
-            </div>
-            {/* clients items */}
-            <div className="content-box">
-              <div className="single-post-text">
-                <p>
-                  Now there is more fashion. There is no so-called trends. Now
-                  chase after anything not necessary — nor for fashionable color
-                  nor the shape, nor for style. Think about the content that you
-                  want to invest in a created object, and only then will form.
-                  The thing is your spirit. A spirit unlike forms hard copy.
-                </p>
-                <p>
-                  Here choose yourself like that, without any looking back, do
-                  your personal, home, small fashion, and all will be well.
-                </p>
-              </div>
-            </div>
-            <div className="clear" />
-          </div>
-        </div>
+       
         {/* Works */}
         <div className="section works" id="section-portfolio">
           <div className="content">
