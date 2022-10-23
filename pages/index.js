@@ -105,8 +105,7 @@ const Index = () => {
               <p>
                 Hello! I’m Med Ali Jlassi. Web Developer from Tunisia ,
                  I have rich experience in web site design and
-                building, also I am good at JavaScript . I love to talk with you
-                about our unique.
+                building, also I am good at JavaScript .
               </p>
               <div className="info-list">
                 <ul>
