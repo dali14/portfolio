@@ -131,7 +131,7 @@ const Index = () => {
                 </ul>
               </div>
               <div className="bts">
-                <a href="#" className="btn hover-animated">
+                <a href="https://drive.google.com/file/d/13pFjHolpgvUaYbkTwx13cttbojp9l_EV/view" className="btn hover-animated">
                   <span className="circle" />
                   <span className="lnk">Download CV</span>
                 </a>
