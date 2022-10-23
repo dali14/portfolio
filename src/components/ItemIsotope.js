@@ -153,43 +153,44 @@ const ItemIsotope = () => {
           {/* add class "animate-to-page" if need animated transition to page and delete target="_blank" rel="noreferrer" */}
           <div className="image">
             <a href="#gallery-1" className="has-popup-gallery hover-animated">
-              <img src="images/work1.jpg" className="wp-post-image" alt="" />
+              <img src="images/image2.jpg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
                     <span className="icon fas fa-images" />
                     <span className="desc">
                       <span className="category">Gallery</span>
-                      <span className="name">Shot in Iceland</span>
+                      <span className="name">Foot Plus App Mobile</span>
                     </span>
                   </span>
                 </span>
               </span>
             </a>
             <div id="gallery-1" className="mfp-hide">
-              <a href="images/work1.jpg" />
-              <a href="images/work2.jpg" />
-              <a href="images/work3.jpg" />
-              <a href="images/work4.jpg" />
+              <a href="images/image1.jpg" />
+              <a href="images/image2.jpg" />
+              <a href="images/image3.jpg" />
+              <a href="images/image4.jpg" />
+              <a href="images/image5.jpg" />
             </div>
           </div>
         </div>
         <div className="box-item f-links">
           <div className="image">
             <a
-              href="https://google.com/"
+              href="https://app-mobile-vitrine-site.vercel.app/"
               className="has-popup-link hover-animated"
               target="_blank"
               rel="noreferrer"
             >
-              <img src="images/work3.jpg" className="wp-post-image" alt="" />
+              <img src="images/appsite.jpg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
                     <span className="icon fas fa-link" />
                     <span className="desc">
                       <span className="category">Links</span>
-                      <span className="name">Nike Red</span>
+                      <span className="name">App Site</span>
                     </span>
                   </span>
                 </span>
@@ -200,7 +201,7 @@ const ItemIsotope = () => {
         <div className="box-item f-video">
           <div className="image">
             <a
-              href="https://www.youtube.com/embed/S4L8T2kFFck"
+              href="https://youtu.be/v6vgfkIxIEA"
               className="has-popup-video hover-animated"
             >
               <img src="images/work2.jpg" className="wp-post-image" alt="" />
@@ -210,7 +211,7 @@ const ItemIsotope = () => {
                     <span className="icon fas fa-video" />
                     <span className="desc">
                       <span className="category">Video</span>
-                      <span className="name">Fertility of Some Plants</span>
+                      <span className="name">Foot Plus Project</span>
                     </span>
                   </span>
                 </span>
@@ -308,14 +309,14 @@ const ItemIsotope = () => {
         <div className="box-item f-content">
           <div className="image">
             <a href="#popup-1" className="has-popup-media hover-animated">
-              <img src="images/work8.jpg" className="wp-post-image" alt="" />
+              <img src="images/image3.jpg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
                     <span className="icon fas fa-plus" />
                     <span className="desc">
                       <span className="category">Content</span>
-                      <span className="name">Curved Ceiling Ribs</span>
+                      <span className="name">Maps</span>
                     </span>
                   </span>
                 </span>
@@ -326,7 +327,7 @@ const ItemIsotope = () => {
             <div className="content">
               <div
                 className="image"
-                style={{ backgroundImage: "url(images/work8.jpg)" }}
+                style={{ backgroundImage: "url(images/image3.jpg)" }}
               />
               <div className="desc single-post-text">
                 <div className="category">Content</div>
