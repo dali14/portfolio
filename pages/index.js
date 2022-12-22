@@ -26,7 +26,7 @@ const Index = () => {
           </a>
           {/* logo */}
           <div className="logo hover-masks-logo">
-            <a href="https://drive.google.com/file/d/1RlFeB0OONd6lcCXcIkIk7blE2Xo4vDSD/view">
+            <a href="https://drive.google.com/file/d/1RlFeB0OONd6lcCXcIkIk7blE2Xo4vDSD/view?usp=share_link">
               <span className="mask-lnk">
                 Med Ali  <strong>Jlassi</strong>
               </span>
@@ -130,7 +130,7 @@ const Index = () => {
                 </ul>
               </div>
               <div className="bts">
-                <a href="https://drive.google.com/file/d/1RlFeB0OONd6lcCXcIkIk7blE2Xo4vDSD/view" className="btn hover-animated">
+                <a href="https://drive.google.com/file/d/1RlFeB0OONd6lcCXcIkIk7blE2Xo4vDSD/view?usp=share_link" className="btn hover-animated">
                   <span className="circle" />
                   <span className="lnk">Download CV</span>
                 </a>
