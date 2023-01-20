@@ -26,7 +26,7 @@ const Index = () => {
           </a>
           {/* logo */}
           <div className="logo hover-masks-logo">
-            <a href="https://drive.google.com/file/d/1RlFeB0OONd6lcCXcIkIk7blE2Xo4vDSD/view?usp=share_link">
+            <a href="https://drive.google.com/file/d/19HgROaW8wk0kNRdrVnn-eN9i3TuGwViW/view?usp=share_link">
               <span className="mask-lnk">
                 Med Ali  <strong>Jlassi</strong>
               </span>
@@ -65,7 +65,7 @@ const Index = () => {
           {/* background */}
           <div
             className="video-bg jarallax"
-            style={{ backgroundImage: "url(images/started_image_p.jpg)" }}
+            style={{ backgroundImage: "url(images/bb.jpeg)" }}
           >
             <div className="video-bg-mask" />
             <div className="video-bg-texture" id="grained_container" />
@@ -75,9 +75,9 @@ const Index = () => {
             <div className="vertical-center">
               <div className="started-content">
                 <h1 className="h-title">
-                  Hello, I’m <strong>Med Ali jlassi</strong>, Full Stack 
+                  Hello, I’m <strong>Med Ali jlassi</strong>, Full-Stack Developer 
                   and <br />
-                  Mobile Developer Based in Tunisia.
+                  Database Engineer Based in Tunisia.
                 </h1>
                 <TypingAnimation extraClassName={"typed-subtitle"} />
                 <span className="typed-subtitle" />
@@ -98,25 +98,26 @@ const Index = () => {
           <div className="content content-box">
             {/* image */}
             <div className="image">
-              <img src="images/rsz_med.jpg" alt="" />
+              <img src="images/profile.jpg" alt="" />
             </div>
             {/* desc */}
             <div className="desc">
               <p>
-                Hello! I’m Med Ali Jlassi. Web Developer from Tunisia ,
+                Hello! I’m Med Ali Jlassi.
+                  Full-Stack Developer & Database Engineer ,
                  I have rich experience in web site design and
                 building, also I am good at JavaScript .
               </p>
               <div className="info-list">
                 <ul>
                   <li>
-                    <strong>Age:</strong> 27
+                    <strong>Age:</strong> 28
                   </li>
                   <li>
                     <strong>Residence:</strong> TN
                   </li>
                   <li>
-                    <strong>Freelance:</strong> Available
+                    <strong>Freelance:</strong> unAvailable
                   </li>
                   <li>
                     <strong>Address:</strong> Tunis
@@ -130,7 +131,7 @@ const Index = () => {
                 </ul>
               </div>
               <div className="bts">
-                <a href="https://drive.google.com/file/d/1RlFeB0OONd6lcCXcIkIk7blE2Xo4vDSD/view?usp=share_link" className="btn hover-animated">
+                <a href="https://drive.google.com/file/d/19HgROaW8wk0kNRdrVnn-eN9i3TuGwViW/view?usp=share_link" className="btn hover-animated">
                   <span className="circle" />
                   <span className="lnk">Download CV</span>
                 </a>
@@ -171,51 +172,27 @@ const Index = () => {
                   </div>
                 </div>
               </div>
+              
               <div className="service-col">
                 <div className="service-item content-box">
                   <div className="icon">
-                    <span className="fas fa-ad" />
+                    <span className="fas fa-database" />
                   </div>
-                  <div className="name">Advetising</div>
+                  <div className="name">Database Management</div>
                   <div className="text">
-                    Advertising services include television, radio, print, mail,
-                    and web apps.
+                    Create databases from scratch , manage and optimize your database ,advanced data modeling concepts.
                   </div>
                 </div>
               </div>
               <div className="service-col">
                 <div className="service-item content-box">
                   <div className="icon">
-                    <span className="fas fa-gamepad" />
+                    <span className="fab fa-docker" />
                   </div>
-                  <div className="name">Game Development</div>
+                  <div className="name">Deploying your Application</div>
                   <div className="text">
-                    Developing memorable and unique mobile android, ios and
-                    video games.
-                  </div>
-                </div>
-              </div>
-              <div className="service-col">
-                <div className="service-item content-box">
-                  <div className="icon">
-                    <span className="fas fa-camera" />
-                  </div>
-                  <div className="name">Photography</div>
-                  <div className="text">
-                    Our in-house photography services team made up of
-                    professional photographers.
-                  </div>
-                </div>
-              </div>
-              <div className="service-col">
-                <div className="service-item content-box">
-                  <div className="icon">
-                    <span className="fas fa-mobile-alt" />
-                  </div>
-                  <div className="name">Android Application</div>
-                  <div className="text">
-                    Games, playing music, handle network transactions,
-                    interacting content etc.
+                    Testing and deploying your application Docker , azur , aws
+                    Monitor the application and containers
                   </div>
                 </div>
               </div>
@@ -236,29 +213,35 @@ const Index = () => {
                 </div>
                 {/* resume items */}
                 <div className="resume-items">
-                  <div className="resume-item content-box active">
-                    <div className="date">2022 - Stagiaire SBI</div>
-                    <div className="name">Developer </div>
+                <div className="resume-item content-box active">
+                    <div className="date">2023 - Full Stack Dev Taderok Company</div>
+                    <div className="name">Developer ( Full Time )</div>
                     <div className="text">
                     Development project of a Mini-Foot pitch reservation platform.
                     </div>
                   </div>
-                  <div className="resume-item content-box">
-                    <div className="date">2021 - 2021</div>
-                    <div className="name">
-                    Stagiaire - TopNet.
+                  <div className="resume-item content-box active">
+                    <div className="date">2022 - Full Stack Dev Sierra Bravo Intelligence</div>
+                    <div className="name"> Full Stack Developer  ( Full Time ) </div>
+                    <div className="text">
+                    Development project of a Mini-Foot pitch reservation platform.
                     </div>
+                  </div>
+                  <div className="resume-item content-box active">
+                    <div className="date">2021 - TopNet Company</div>
+                    <div className="name">Full Stack Developer ( Internship )</div>
                     <div className="text">
                     Design and implementation of a web platform used to manage trainees.
                     </div>
                   </div>
-                  <div className="resume-item content-box">
-                    <div className="date">2019 - 2019</div>
-                    <div className="name">Stagiaire - TriDevs.</div>
+                  <div className="resume-item content-box active">
+                    <div className="date">2019 - Tridevs Company </div>
+                    <div className="name">Full Stack Developer ( Internship )</div>
                     <div className="text">
-                    Creation of a mobile and web application using the PHP Framework (Django) and Html 5 (PHASER)..
+                    Development mobile and web application using the PHP Framework (Django) and Html 5 (PHASER)
                     </div>
                   </div>
+            
                 </div>
               </div>
               <div className="col col-md">
@@ -268,6 +251,13 @@ const Index = () => {
                 </div>
                 {/* resume items */}
                 <div className="resume-items">
+                <div className="resume-item content-box">
+                    <div className="date">2021 - 2023</div>
+                    <div className="name">Database Engineer ( Meta )</div>
+                    <div className="text">
+                    SQL and Python syntax - database management- database administration-Database (DBMS)-Linux -Bash (Unix Shell) -Github -Version Control
+                   </div>
+                  </div>
                   <div className="resume-item content-box">
                     <div className="date">2017 - 2022</div>
                     <div className="name">LICENSE Information Technology</div>
@@ -301,13 +291,13 @@ const Index = () => {
           <div className="content">
             {/* title */}
             <div className="title">
-              <div className="title_inner">Design Skills</div>
+              <div className="title_inner">Skills</div>
             </div>
             {/* skills items */}
             <div className="skills percent content-box">
               <ul>
                 <li>
-                  <div className="name">Web Design</div>
+                  <div className="name">Web Developer (JavaScript) </div>
                   <div className="progress ">
                     <div className="percentage" style={{ width: "90%" }}>
                       <span className="percent">90%</span>
@@ -315,7 +305,7 @@ const Index = () => {
                   </div>
                 </li>
                 <li>
-                  <div className="name">Illustrations</div>
+                  <div className="name">Docker &(deployment tools)</div>
                   <div className="progress ">
                     <div className="percentage" style={{ width: "70%" }}>
                       <span className="percent">70%</span>
@@ -323,18 +313,18 @@ const Index = () => {
                   </div>
                 </li>
                 <li>
-                  <div className="name">Photoshop</div>
+                  <div className="name">linux and shell scripting </div>
                   <div className="progress ">
-                    <div className="percentage" style={{ width: "95%" }}>
-                      <span className="percent">95%</span>
+                    <div className="percentage" style={{ width: "70%" }}>
+                      <span className="percent">70%</span>
                     </div>
                   </div>
                 </li>
                 <li>
-                  <div className="name">Graphic Design</div>
+                  <div className="name">Database Engineer ( Certified © ® )</div>
                   <div className="progress ">
-                    <div className="percentage" style={{ width: "85%" }}>
-                      <span className="percent">85%</span>
+                    <div className="percentage" style={{ width: "90%" }}>
+                      <span className="percent">90</span>
                     </div>
                   </div>
                 </li>

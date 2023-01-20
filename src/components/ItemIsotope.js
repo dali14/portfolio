@@ -204,7 +204,7 @@ const ItemIsotope = () => {
               href="https://youtu.be/v6vgfkIxIEA"
               className="has-popup-video hover-animated"
             >
-              <img src="images/work2.jpg" className="wp-post-image" alt="" />
+              <img src="images/foot.jpeg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
@@ -222,10 +222,10 @@ const ItemIsotope = () => {
         <div className="box-item f-image">
           <div className="image">
             <a
-              href="images/work4.jpg"
+              href="images/11.jpg"
               className="has-popup-image hover-animated"
             >
-              <img src="images/work4.jpg" className="wp-post-image" alt="" />
+              <img src="images/11.jpg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
@@ -243,10 +243,10 @@ const ItemIsotope = () => {
         <div className="box-item f-image">
           <div className="image">
             <a
-              href="images/work7.jpg"
+              href="images/11.jpeg"
               className="has-popup-image hover-animated"
             >
-              <img src="images/work7.jpg" className="wp-post-image" alt="" />
+              <img src="images/11.jpeg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
@@ -267,7 +267,7 @@ const ItemIsotope = () => {
               href="https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221650664&show_artwork=true"
               className="has-popup-music hover-animated"
             >
-              <img src="images/work6.jpg" className="wp-post-image" alt="" />
+              <img src="images/pc.jpeg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
@@ -285,7 +285,7 @@ const ItemIsotope = () => {
         <div className="box-item f-gallery">
           <div className="image">
             <a href="#gallery-2" className="has-popup-gallery hover-animated">
-              <img src="images/work5.jpg" className="wp-post-image" alt="" />
+              <img src="images/12.jpeg" className="wp-post-image" alt="" />
               <span className="info circle">
                 <span className="centrize full-width">
                   <span className="vertical-center">
